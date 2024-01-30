@@ -20,3 +20,7 @@ image
 Разработать диаграмму вариантов использования системы.
 
 Разработать ER-диаграмму.
+![image](https://github.com/Shket13/Diplom/assets/97594188/68e33dcc-9284-4ec0-a126-7d99e28d1088)
+
+![image](https://github.com/Shket13/Diplom/assets/97594188/b4ff3ece-83c0-43b9-a00a-9125e0b0aa1a)
+
